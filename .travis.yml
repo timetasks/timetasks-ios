@@ -1,1 +1,3 @@
 language: objective-c
+xcode_project: TimeTasks.xcodeproj
+xcode_scheme: TimeTasksTests
