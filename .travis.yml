@@ -1,4 +1,4 @@
 language: objective-c
 xcode_project: TimeTasks.xcodeproj
-xcode_scheme: TimeTasksTests
+xcode_scheme: TimeTasks.xcodeproj/xcshareddata/xcschemes/TimeTasks.xcscheme
 xcode_sdk: iphonesimulator7.1
