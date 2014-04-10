@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>2CD71286-F758-45BB-9ED0-743E055E14E4</string>
+	<string>32138E52-087F-431D-BC77-98282A26EFAB</string>
 	<key>IDESourceControlProjectName</key>
 	<string>TimeTasks</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>9BEDF5F3-E270-413C-9DB8-D9326FF91CF4</key>
-		<string>https://github.com/AppsterdamMilan/TDD_Workshop.git</string>
+		<key>B0B2D811-F7A2-408A-8757-B71D91C85B18</key>
+		<string>https://github.com/timetasks/timetasks-ios.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>mobileApplication/TimeTasks/TimeTasks.xcodeproj/project.xcworkspace</string>
+	<string>TimeTasks.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>9BEDF5F3-E270-413C-9DB8-D9326FF91CF4</key>
-		<string>../../../..</string>
+		<key>B0B2D811-F7A2-408A-8757-B71D91C85B18</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/AppsterdamMilan/TDD_Workshop.git</string>
+	<string>https://github.com/timetasks/timetasks-ios.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>9BEDF5F3-E270-413C-9DB8-D9326FF91CF4</string>
+	<string>B0B2D811-F7A2-408A-8757-B71D91C85B18</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>9BEDF5F3-E270-413C-9DB8-D9326FF91CF4</string>
+			<string>B0B2D811-F7A2-408A-8757-B71D91C85B18</string>
 			<key>IDESourceControlWCCName</key>
-			<string>TDD_Workshop</string>
+			<string>timetasks-ios</string>
 		</dict>
 	</array>
 </dict>
